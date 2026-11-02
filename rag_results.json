@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the refund window for regular purchases?",
+    "context": "All customers are eligible for a full refund within 30 days of purchase. The item must be in its original packaging and unused condition. Refunds are processed to the original payment method within 5-7 business days.\n\nElectronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.",
+    "answer": "Based on the context, regular purchases are eligible for a full refund within **30 days of purchase**, provided the item is in its original packaging and unused condition.",
+    "sources": [
+      {
+        "source": "return_policy.pdf",
+        "section": "refund_eligibility"
+      },
+      {
+        "section": "electronics",
+        "source": "return_policy.pdf"
+      }
+    ]
+  },
+  {
+    "question": "Are exchanges free for clothing size changes?",
+    "context": "Exchanges can be requested within 45 days of purchase for items of equal or lesser value. Size exchanges on clothing are free of charge. For items of greater value, the customer pays the difference.\n\nShipping costs for returns are covered by the company for defective items. For non-defective returns, the customer is responsible for return shipping. Free return shipping labels are available for loyalty program members regardless of reason.",
+    "answer": "Yes \u2014 size exchanges on clothing are free of charge.",
+    "sources": [
+      {
+        "source": "return_policy.pdf",
+        "section": "exchanges"
+      },
+      {
+        "section": "shipping",
+        "source": "return_policy.pdf"
+      }
+    ]
+  },
+  {
+    "question": "What are my options if I received a defective laptop 60 days ago?",
+    "context": "Electronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.\n\nAll customers are eligible for a full refund within 30 days of purchase. The item must be in its original packaging and unused condition. Refunds are processed to the original payment method within 5-7 business days.",
+    "answer": "Based on the context, a defective laptop can be returned within 90 days with proof of defect from an authorized service center. Since your laptop was received 60 days ago, it falls within that 90-day window, so you would need to obtain proof of defect from an authorized service center to return it.\n\nNote that the general 30-day full refund policy and the 15-day electronics return window would not apply here, since you're past both of those timeframes. The context doesn't specify whether the return for a defective item within 90 days results in a refund, replacement, or repair\u2014only that it \"can be returned\"\u2014so I can't confirm the exact resolution you'd receive.",
+    "sources": [
+      {
+        "section": "electronics",
+        "source": "return_policy.pdf"
+      },
+      {
+        "section": "refund_eligibility",
+        "source": "return_policy.pdf"
+      }
+    ]
+  },
+  {
+    "question": "Can I get a refund for a digital download I purchased yesterday?",
+    "context": "Electronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.\n\nAll customers are eligible for a full refund within 30 days of purchase. The item must be in its original packaging and unused condition. Refunds are processed to the original payment method within 5-7 business days.",
+    "answer": "Based on the context provided, opened software and digital downloads are non-refundable. So no, you would not be able to get a refund for a digital download purchased yesterday.",
+    "sources": [
+      {
+        "source": "return_policy.pdf",
+        "section": "electronics"
+      },
+      {
+        "section": "refund_eligibility",
+        "source": "return_policy.pdf"
+      }
+    ]
+  },
+  {
+    "question": "What happens if I return a gift without the gift receipt?",
+    "context": "Gift purchases can be returned with the gift receipt for store credit only. Without a gift receipt, returns are processed at the lowest sale price in the last 90 days. Gift cards and prepaid cards are non-refundable and cannot be exchanged.\n\nElectronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.",
+    "answer": "If you return a gift without the gift receipt, the return is processed at the lowest sale price in the last 90 days.",
+    "sources": [
+      {
+        "section": "gifts",
+        "source": "return_policy.pdf"
+      },
+      {
+        "source": "return_policy.pdf",
+        "section": "electronics"
+      }
+    ]
+  },
+  {
+    "question": "Do you offer refunds for international orders?",
+    "context": "All customers are eligible for a full refund within 30 days of purchase. The item must be in its original packaging and unused condition. Refunds are processed to the original payment method within 5-7 business days.\n\nShipping costs for returns are covered by the company for defective items. For non-defective returns, the customer is responsible for return shipping. Free return shipping labels are available for loyalty program members regardless of reason.",
+    "answer": "The provided context doesn't specify whether refunds are offered for international orders. It only states that all customers are eligible for a full refund within 30 days of purchase (with conditions on item condition and processing time), but it doesn't address international orders specifically. I don't have enough information to answer that.",
+    "sources": [
+      {
+        "source": "return_policy.pdf",
+        "section": "refund_eligibility"
+      },
+      {
+        "source": "return_policy.pdf",
+        "section": "shipping"
+      }
+    ]
+  },
+  {
+    "question": "Can I return an item I bought on sale?",
+    "context": "Gift purchases can be returned with the gift receipt for store credit only. Without a gift receipt, returns are processed at the lowest sale price in the last 90 days. Gift cards and prepaid cards are non-refundable and cannot be exchanged.\n\nElectronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.",
+    "answer": "Yes \u2014 you can return an item bought on sale, but the refund amount depends on the receipt situation:\n\n- **With a gift receipt:** Returned for store credit only.\n- **Without a gift receipt:** Returns are processed at the lowest sale price in the last 90 days.\n\nNote that some items are excluded from returns entirely: gift cards and prepaid cards are non-refundable, and opened software and digital downloads are non-refundable. Electronics have a shorter 15-day return window (though defective electronics can be returned within 90 days with proof of defect from an authorized service center).\n\nThe context doesn't specify a general return window for non-electronics, so I can't confirm the exact timeframe for your item.",
+    "sources": [
+      {
+        "source": "return_policy.pdf",
+        "section": "gifts"
+      },
+      {
+        "section": "electronics",
+        "source": "return_policy.pdf"
+      }
+    ]
+  },
+  {
+    "question": "If I'm a loyalty member, do I get free return shipping even for electronics?",
+    "context": "Shipping costs for returns are covered by the company for defective items. For non-defective returns, the customer is responsible for return shipping. Free return shipping labels are available for loyalty program members regardless of reason.\n\nElectronics have a 15-day return window due to rapid depreciation. Opened software and digital downloads are non-refundable. Defective electronics can be returned within 90 days with proof of defect from an authorized service center.",
+    "answer": "Yes \u2014 according to the context, free return shipping labels are available for loyalty program members regardless of reason, so that would include electronics returns.",
+    "sources": [
+      {
+        "section": "shipping",
+        "source": "return_policy.pdf"
+      },
+      {
+        "section": "electronics",
+        "source": "return_policy.pdf"
+      }
+    ]
+  }
+]

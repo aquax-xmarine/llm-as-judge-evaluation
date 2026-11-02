@@ -1,0 +1,9 @@
+openai
+chromadb
+langchain
+langchain-chroma
+langchain-community
+install langchain-huggingface
+sentence-transformers
+deepeval
+python-dotenv

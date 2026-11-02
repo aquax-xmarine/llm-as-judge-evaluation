@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is the refund window for regular purchases?",
+    "answer": "Based on the context, regular purchases are eligible for a full refund within **30 days of purchase**, provided the item is in its original packaging and unused condition.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is fully supported by the context. It correctly states that regular purchases are eligible for a full refund within 30 days of purchase and that the item must be in its original packaging and unused condition. These details are directly traceable to the provided refund policy, with 'regular purchases' reasonably distinguishing the general 30-day policy from the separate electronics return window.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly and completely addresses the question by stating that regular purchases are eligible for a full refund within 30 days of purchase, and it adds brief relevant conditions about original packaging and unused condition. There is no off-topic or irrelevant content."
+  },
+  {
+    "question": "Are exchanges free for clothing size changes?",
+    "answer": "Yes \u2014 size exchanges on clothing are free of charge.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is directly supported by the context, which explicitly states that size exchanges on clothing are free of charge. It introduces no unsupported claims or extrapolations.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly and completely addresses the user's question by confirming that clothing size exchanges are free of charge, with no irrelevant content or tangents."
+  },
+  {
+    "question": "What are my options if I received a defective laptop 60 days ago?",
+    "answer": "Based on the context, a defective laptop can be returned within 90 days with proof of defect from an authorized service center. Since your laptop was received 60 days ago, it falls within that 90-day window, so you would need to obtain proof of defect from an authorized service center to return it.\n\nNote that the general 30-day full refund policy and the 15-day electronics return window would not apply here, since you're past both of those timeframes. The context doesn't specify whether the return for a defective item within 90 days results in a refund, replacement, or repair\u2014only that it \"can be returned\"\u2014so I can't confirm the exact resolution you'd receive.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is fully supported by the context: it correctly cites the 90-day defective-electronics return window, notes that 60 days falls within it, and explains that proof of defect from an authorized service center is required. It also accurately observes that the 15-day electronics window and 30-day full-refund window are exceeded. Finally, it properly avoids asserting a specific resolution such as refund, replacement, or repair because the context only says the defective item can be returned within 90 days.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly addresses the user's question by explaining that a defective laptop received 60 days ago falls within the 90-day return window, provided they obtain proof of defect from an authorized service center. It also clarifies that shorter refund and electronics return windows do not apply and appropriately notes that the exact resolution\u2014refund, replacement, or repair\u2014is not specified. This is relevant and complete given the available information."
+  },
+  {
+    "question": "Can I get a refund for a digital download I purchased yesterday?",
+    "answer": "Based on the context provided, opened software and digital downloads are non-refundable. So no, you would not be able to get a refund for a digital download purchased yesterday.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is directly supported by the context, which explicitly states that opened software and digital downloads are non-refundable. The conclusion that a digital download purchased yesterday would not be eligible for a refund follows directly from that rule, and the answer does not introduce unsupported claims.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly addresses the user's question by stating whether a refund is possible for a digital download purchased yesterday. It provides a clear conclusion based on the stated policy that digital downloads are non-refundable, without going off-topic or including unrelated information."
+  },
+  {
+    "question": "What happens if I return a gift without the gift receipt?",
+    "answer": "If you return a gift without the gift receipt, the return is processed at the lowest sale price in the last 90 days.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is directly supported by the context, which states that without a gift receipt, returns are processed at the lowest sale price in the last 90 days. The answer introduces no unsupported claims or extrapolations.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly and completely addresses the user's question by explaining the consequence of returning a gift without a gift receipt: the return is processed at the lowest sale price in the last 90 days. It contains no irrelevant content or unnecessary tangents."
+  },
+  {
+    "question": "Do you offer refunds for international orders?",
+    "answer": "The provided context doesn't specify whether refunds are offered for international orders. It only states that all customers are eligible for a full refund within 30 days of purchase (with conditions on item condition and processing time), but it doesn't address international orders specifically. I don't have enough information to answer that.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer makes no unsupported claims; it accurately characterizes the context as silent on international orders and correctly summarizes what the context does say, namely that all customers are eligible for a full refund within 30 days of purchase, subject to conditions on item condition (original packaging, unused) and processing time (5-7 business days to the original payment method). Its conclusion that the context is insufficient to answer the question is a direct and valid inference from the absence of any mention of international orders.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly addresses the question by explaining that the available information does not specify whether refunds are offered for international orders. It appropriately references the general refund policy while clarifying that international orders are not covered, and it does not provide unrelated or off-topic content."
+  },
+  {
+    "question": "Can I return an item I bought on sale?",
+    "answer": "Yes \u2014 you can return an item bought on sale, but the refund amount depends on the receipt situation:\n\n- **With a gift receipt:** Returned for store credit only.\n- **Without a gift receipt:** Returns are processed at the lowest sale price in the last 90 days.\n\nNote that some items are excluded from returns entirely: gift cards and prepaid cards are non-refundable, and opened software and digital downloads are non-refundable. Electronics have a shorter 15-day return window (though defective electronics can be returned within 90 days with proof of defect from an authorized service center).\n\nThe context doesn't specify a general return window for non-electronics, so I can't confirm the exact timeframe for your item.",
+    "faithfulness_score": 4,
+    "faithfulness_reason": "The answer is largely faithful and accurately reflects the context: gift receipt returns for store credit, no-gift-receipt returns at the lowest sale price in the last 90 days, exclusions for gift/prepaid cards and opened software/digital downloads, and electronics return windows. The main minor extrapolation is the opening claim that a sale item can be returned, which is not explicitly stated in the context, though it is reasonably inferable from the return-processing language. The answer also correctly notes that the context does not give a general non-electronics return window.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly addresses the user's question by confirming that a sale item can be returned, then explains relevant refund conditions based on receipt type and notes exclusions and timing limitations. The additional details about exclusions and electronics return windows are related to return eligibility and do not detract from the core answer. It also appropriately acknowledges that the general non-electronics return window is unspecified."
+  },
+  {
+    "question": "If I'm a loyalty member, do I get free return shipping even for electronics?",
+    "answer": "Yes \u2014 according to the context, free return shipping labels are available for loyalty program members regardless of reason, so that would include electronics returns.",
+    "faithfulness_score": 5,
+    "faithfulness_reason": "The answer is directly supported by the context, which states that free return shipping labels are available for loyalty program members regardless of reason. Applying that to electronics returns is a straightforward inference and does not introduce unsupported claims.",
+    "relevance_score": 5,
+    "relevance_reason": "The answer directly addresses the user's question, confirming that loyalty members get free return shipping and explicitly stating that this includes electronics returns. It is concise and on-topic, with no irrelevant content."
+  }
+]
